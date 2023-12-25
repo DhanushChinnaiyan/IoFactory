@@ -1,0 +1,12 @@
+svg {
+    width: 400px;
+    height: 200px;
+    border: 1px solid #000;
+  }
+  rect {
+    fill: #ccc;
+    stroke: #000;
+  }
+  .water {
+    fill: blue;
+  }
